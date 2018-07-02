@@ -12,6 +12,14 @@ body{
     border-radius: 6px;
 }
 
+.danceLogo{
+    margin: 10px;
+    padding: 1px;
+    font: bold 20px Open Sans;
+    color: #1e8bc3;
+    border-radius: 6px;
+}
+
 .danceSchool{
     width:210px;
     height:400px;
