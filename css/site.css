@@ -3,8 +3,27 @@ body{
     background-color: #ebeff2;
 }
 
-.danceSchool{
-    width:200px;
-    height:230px;
+.danceLogo{
     margin: 10px;
+    padding: 1px;
+    font: bold 20px Open Sans;
+    color: #1e8bc3;
+    border-radius: 6px;
+}
+
+.danceSchool{
+    width:210px;
+    height:400px;
+    margin: 15px;
+}
+
+.navItem{
+    text-align: center;
+    margin: 10px;
+    width:100px;
+    height:100px;
+    padding: 1px;
+    color: white;
+    font: bold 14px Open Sans;
+    border-radius: 6px;
 }
