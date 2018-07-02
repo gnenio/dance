@@ -1,6 +1,7 @@
 
 body{
     background-color: #ebeff2;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .danceLogo{
@@ -26,4 +27,8 @@ body{
     color: white;
     font: bold 14px Open Sans;
     border-radius: 6px;
+}
+
+.navItem:hover{
+   border:2px slategray solid;
 }
